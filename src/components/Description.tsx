@@ -1,4 +1,3 @@
-import { RiCheckFill } from 'react-icons/ri';
 import ListElement from './ListElement';
 
 const Description = () => {
